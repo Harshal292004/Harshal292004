@@ -1,8 +1,7 @@
 - 👋 Hi, I'm Harshal
-- 👀 Passionate about Artificial Intelligence and Native Android development
+- 👀 Passionate about Artificial Intelligence and Web Development
 - 🌱 Currently diving deep into Computer Vision
-- 💞️ Open to collaborating on AI or Native Android projects
-- ⚡ Fun fact: I'm a big fan of Jetpack Compose!
+- 💞️ Open to collaborating on AI or Web Development Projects
 - 📫 Email: malaniharshal95@gmail.com
 
 <!---
