@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Harshal
-- 👀 Passionate about Artificial Intelligence and Web Development
-- 🌱 Currently diving deep into GenAI
+- 👀 Passionate about Engineering and knowing how machines work?
+- 🌱 Currently diving deep into GenAI and Operating system 
 - 💞️ Open to collaborating on AI or Web Development Projects
 - 📫 Email: malaniharshal95@gmail.com
 
