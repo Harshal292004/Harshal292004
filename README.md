@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Harshal
 - 👀 Passionate about Engineering and knowing how machines work?
-- 🌱 Currently learning about  block chain 
-- 💞️ Open to collaborating on AI or Web Development Projects
+- 🌱 Currently learning Golang and TypeScript
+- 💞️ Open to collaborating on AI , Web Development , BlockChain projects
 - 📫 Email: malaniharshal95@gmail.com
 
 <!---
