@@ -19,4 +19,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshal292004&" alt="harshal292004" /></p>
 
-<p> <img align="left" style={{ width: "20px", height: "20px" }}  src="https://gifdb.com/images/high/programming-kitten-in-keyboard-mohffqspgkrrlcgi.webp" alt="cat programming"/></p>
+<img src="https://gifdb.com/images/high/programming-kitten-in-keyboard-mohffqspgkrrlcgi.webp" alt="cat programming" width="275" height="275" style="object-fit: contain;"/>
