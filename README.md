@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshal</h1>
 <h3 align="center">A developer who just likes to mess around</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshal292004&label=Profile%20views&color=0e75b6&style=flat" alt="harshal292004" /> </p>
-
 - 💬 Ask me about **AI Agents, TypeScript**
 
 - 📫 How to reach me **malaniharshal95@gmail.com**
