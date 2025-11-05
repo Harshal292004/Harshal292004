@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshal</h1>
-<h3 align="center">A developer who just likes to mess around</h3>
+<h1 align="center">Hi , I'm Harshal</h1>
 
 - 📫 How to reach me **malaniharshal95@gmail.com**
 
