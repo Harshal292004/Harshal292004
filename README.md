@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshal</h1>
 <h3 align="center">A developer who just likes to mess around</h3>
 
-- 💬 Ask me about **AI Agents, TypeScript**
-
 - 📫 How to reach me **malaniharshal95@gmail.com**
-
-- ⚡ Fun fact **I am just a chill guy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
